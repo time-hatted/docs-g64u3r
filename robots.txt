@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-5z7exr.menang123amd.cfd/sitemap.xml
